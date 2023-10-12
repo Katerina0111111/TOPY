@@ -1,0 +1,488 @@
+body {margin:0;}
+	nav {
+	background-color: #d1a095;
+	position: fixed;
+	top:0;
+	left:0;
+	width: 100%;
+	}
+
+ #header{
+	width: 900px;
+	height: 200px;
+	background-color: #d1a095;
+	margin-bottom: 10px;
+	}
+
+	body {
+    background-image: url(https://mykaleidoscope.ru/x/uploads/posts/2022-10/1666257522_4-mykaleidoscope-ru-p-bezhevii-gradient-instagram-4.png);
+  }
+			
+	/* убираем отступы и поля, а также list-style для "ul", 
+	* и добавляем "position:relative" */
+	nav ul {
+	float: left;
+	display: block;
+	color: #d1a095;
+	padding: 16px;
+	text-decoration: none;
+	font-size: 17px;
+	padding-left: 0px;
+	padding-top: 0px;
+	}
+	/* применяем inline-block позиционирование к элементам навигации */
+	nav ul li {
+	margin: 0px -7px 0 0;
+	display:inline-block;
+	background-color: #d1a095;
+	}		
+	/* стилизуем ссылки */
+	nav a {
+	display:block;
+	padding:0 10px;
+	font-size:20px;
+	line-height: 60px;
+	text-decoration:none;
+	background: #d1a095;
+	color: white;
+	}	
+	/* изменяем цвет фона при наведении курсора */
+	nav a:hover {
+	background: #ddd;
+	color: black;
+	}
+	nav ul ul {
+	display: none;
+	position: absolute;
+	top: 100%;
+	}
+	/* отображаем выпадающий список при наведении */
+	nav ul li:hover > ul {
+	display:inherit;
+	}
+	/* первый уровень выпадающего списка */
+	nav ul ul li {
+	min-width:170px;
+	float:none;
+	display:list-item;
+	position: relative;
+	}
+
+	 .header {
+        height: 40px;
+        padding: 20px 20px 0;
+        background: #e1e1e1;
+      }
+      .main-content {
+        height: 60vh;
+        padding: 20px;
+      }
+      footer {
+        padding: 10px 20px;
+        background: #95959c;
+        color: white;
+      }
+      a {
+		text-decoration:none;
+        color:white;
+      }
+	a:hover {
+    color: black; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+	}
+
+	/* Главная*/
+
+
+	#header{
+	width: 900px;
+	height: 200px;
+	background-color: #d1a095;
+	margin-bottom: 10px;
+	}
+
+	 body {margin:0;}
+	nav {
+	background-color: #d1a095;
+	position: fixed;
+	top:0;
+	left:0;
+	width: 100%;
+	}
+	/* убираем отступы и поля, а также list-style для "ul", 
+	* и добавляем "position:relative" */
+	nav ul {
+	float: left;
+	display: block;
+	color: #d1a095;
+	padding: 16px;
+	text-decoration: none;
+	font-size: 17px;
+	padding-left: 0px;
+	padding-top: 0px;
+	}
+	/* применяем inline-block позиционирование к элементам навигации */
+	nav ul li {
+	margin: 0px -7px 0 0;
+	display:inline-block;
+	background-color: #d1a095;
+	}		
+	/* стилизуем ссылки */
+	nav a {
+	display:block;
+	padding:0 10px;
+	font-size:20px;
+	line-height: 60px;
+	text-decoration:none;
+	background: #d1a095;
+	color: white;
+	}	
+	/* изменяем цвет фона при наведении курсора */
+	nav a:hover {
+	background: #ddd;
+	color: black;
+	}
+	nav ul ul {
+	display: none;
+	position: absolute;
+	top: 100%;
+	}
+	/* отображаем выпадающий список при наведении */
+	nav ul li:hover > ul {
+	display:inherit;
+	}
+	/* первый уровень выпадающего списка */
+	nav ul ul li {
+	min-width:170px;
+	float:none;
+	display:list-item;
+	position: relative;
+	}
+
+	body {
+		background-image: url(https://mykaleidoscope.ru/x/uploads/posts/2022-10/1666257522_4-mykaleidoscope-ru-p-bezhevii-gradient-instagram-4.png);
+		}	
+
+		.header {
+        height: 40px;
+        padding: 20px 20px 0;
+        background: #e1e1e1;
+      }
+      .main-content {
+        height: 60vh;
+        padding: 20px;
+      }
+      footer {
+        padding: 10px 20px;
+        background: #95959c;
+        color: white;
+      }
+      a {
+		text-decoration:none;
+        color:white;
+      }
+	a:hover {
+    color: black; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+	}
+
+	/* О нас  */
+
+	#header{
+	width: 900px;
+	height: 200px;
+	background-color: #d1a095;
+	margin-bottom: 10px;}
+
+	  body {margin:0;}
+	nav {
+	background-color: #d1a095;
+	position: fixed;
+	top:0;
+	left:0;
+	width: 100%;
+	}
+			
+	/* убираем отступы и поля, а также list-style для "ul", 
+	* и добавляем "position:relative" */
+	nav ul {
+	float: left;
+	display: block;
+	color: #d1a095;
+	padding: 16px;
+	text-decoration: none;
+	font-size: 17px;
+	padding-left: 0px;
+	padding-top: 0px;
+	}
+	/* применяем inline-block позиционирование к элементам навигации */
+	nav ul li {
+	margin: 0px -7px 0 0;
+	display:inline-block;
+	background-color: #d1a095;
+	}		
+	/* стилизуем ссылки */
+	nav a {
+	display:block;
+	padding:0 10px;
+	font-size:20px;
+	line-height: 60px;
+	text-decoration:none;
+	background: #d1a095;
+	color: white;
+	}	
+	/* изменяем цвет фона при наведении курсора */
+	nav a:hover {
+	background: #ddd;
+	color: black;
+	}
+	nav ul ul {
+	display: none;
+	position: absolute;
+	top: 100%;
+	}
+	/* отображаем выпадающий список при наведении */
+	nav ul li:hover > ul {
+	display:inherit;
+	}
+	/* первый уровень выпадающего списка */
+	nav ul ul li {
+	min-width:170px;
+	float:none;
+	display:list-item;
+	position: relative;
+	}
+
+	body {
+		background-image: url(https://mykaleidoscope.ru/x/uploads/posts/2022-10/1666257522_4-mykaleidoscope-ru-p-bezhevii-gradient-instagram-4.png);
+		}
+		a {
+		text-decoration:none;
+        color:white;
+		}
+		a:hover {
+		color: black; /* Цвет ссылки при наведении на нее курсора мыши */  
+		text-decoration: underline; /* Добавляем подчеркивание */
+		}		
+
+		.header {
+        height: 40px;
+        padding: 20px 20px 0;
+        background: #e1e1e1;
+      }
+      .main-content {
+        height: 60vh;
+        padding: 20px;
+      }
+      footer {
+        padding: 10px 20px;
+        background: #95959c;
+        color: white;
+      }
+      a {
+		text-decoration:none;
+        color:white;
+      }
+	a:hover {
+    color: black; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+	}
+
+	/* Навигация  */
+
+	#header{
+	width: 900px;
+	height: 200px;
+	background-color: #d1a095;
+	margin-bottom: 10px;}
+
+	 body {margin:0;}
+	nav {
+	background-color: #d1a095;
+	position: fixed;
+	top:0;
+	left:0;
+	width: 100%;
+	}
+			
+	/* убираем отступы и поля, а также list-style для "ul", 
+	* и добавляем "position:relative" */
+	nav ul {
+	float: left;
+	display: block;
+	color: #d1a095;
+	padding: 16px;
+	text-decoration: none;
+	font-size: 17px;
+	padding-left: 0px;
+	padding-top: 0px;
+	}
+	/* применяем inline-block позиционирование к элементам навигации */
+	nav ul li {
+	margin: 0px -7px 0 0;
+	display:inline-block;
+	background-color: #d1a095;
+	}		
+	/* стилизуем ссылки */
+	nav a {
+	display:block;
+	padding:0 10px;
+	font-size:20px;
+	line-height: 60px;
+	text-decoration:none;
+	background: #d1a095;
+	color: white;
+	}	
+	/* изменяем цвет фона при наведении курсора */
+	nav a:hover {
+	background: #ddd;
+	color: black;
+	}
+	nav ul ul {
+	display: none;
+	position: absolute;
+	top: 100%;
+	}
+	/* отображаем выпадающий список при наведении */
+	nav ul li:hover > ul {
+	display:inherit;
+	}
+	/* первый уровень выпадающего списка */
+	nav ul ul li {
+	min-width:170px;
+	float:none;
+	display:list-item;
+	position: relative;
+	}
+
+	body {
+		background-image: url(https://mykaleidoscope.ru/x/uploads/posts/2022-10/1666257522_4-mykaleidoscope-ru-p-bezhevii-gradient-instagram-4.png);
+		}
+
+		a:hover {
+		color: #f66d52;  
+		text-decoration: underline; 
+		}
+
+		      .header {
+        height: 40px;
+        padding: 20px 20px 0;
+        background: #e1e1e1;
+      }
+      .main-content {
+        height: 60vh;
+        padding: 20px;
+      }
+      footer {
+        padding: 10px 20px;
+        background: #95959c;
+        color: white;
+      }
+      a {
+		text-decoration:none;
+        color:white;
+      }
+	a:hover {
+    color: black; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+	}
+
+/* услуги */
+
+
+	#header{
+	width: 900px;
+	height: 200px;
+	background-color: #d1a095;
+	margin-bottom: 10px;}
+
+	body {margin:0;}
+	nav {
+	background-color: #d1a095;
+	position: fixed;
+	top:0;
+	left:0;
+	width: 100%;
+	}
+			
+	/* убираем отступы и поля, а также list-style для "ul", 
+	* и добавляем "position:relative" */
+	nav ul {
+	float: left;
+	display: block;
+	color: #d1a095;
+	padding: 16px;
+	text-decoration: none;
+	font-size: 17px;
+	padding-left: 0px;
+	padding-top: 0px;
+	}
+	/* применяем inline-block позиционирование к элементам навигации */
+	nav ul li {
+	margin: 0px -7px 0 0;
+	display:inline-block;
+	background-color: #d1a095;
+	}		
+	/* стилизуем ссылки */
+	nav a {
+	display:block;
+	padding:0 10px;
+	font-size:20px;
+	line-height: 60px;
+	text-decoration:none;
+	background: #d1a095;
+	color: white;
+	}	
+	/* изменяем цвет фона при наведении курсора */
+	nav a:hover {
+	background: #ddd;
+	color: black;
+	}
+	nav ul ul {
+	display: none;
+	position: absolute;
+	top: 100%;
+	}
+	/* отображаем выпадающий список при наведении */
+	nav ul li:hover > ul {
+	display:inherit;
+	}
+	/* первый уровень выпадающего списка */
+	nav ul ul li {
+	min-width:170px;
+	float:none;
+	display:list-item;
+	position: relative;
+	}
+
+	body {
+		background-image: url(https://mykaleidoscope.ru/x/uploads/posts/2022-10/1666257522_4-mykaleidoscope-ru-p-bezhevii-gradient-instagram-4.png);
+		}	
+
+		.header {
+        height: 40px;
+        padding: 20px 20px 0;
+        background: #e1e1e1;
+      }
+      .main-content {
+        height: 60vh;
+        padding: 20px;
+      }
+      footer {
+        padding: 10px 20px;
+        background: #95959c;
+        color: white;
+      }
+      a {
+		text-decoration:none;
+        color:white;
+      }
+	a:hover {
+    color: black; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+	}
+
+
+
+
+
